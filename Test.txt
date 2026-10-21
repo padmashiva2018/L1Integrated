@@ -1,0 +1,10 @@
+-- This is to Test
+
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+git config --global user.name "padmashiva2018"
+git config --global user.email "spadmanabhan@agero.com"
+
+
+git config --global user.name "padmashiva2018"
